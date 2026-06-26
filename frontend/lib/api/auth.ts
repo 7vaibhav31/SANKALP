@@ -40,7 +40,7 @@ export async function emailLogin(email: string, password: string): Promise<{ suc
   });
 }
 
-export async function emailSignup(data: any): Promise<{ success: boolean; token: string }> {
+export async function emailSignup(data: Record<string, unknown>): Promise<{ success: boolean; token: string }> {
   console.log('Email signup with data', data);
   return new Promise((resolve) => {
     setTimeout(() => {

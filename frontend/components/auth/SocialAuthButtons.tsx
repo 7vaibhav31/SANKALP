@@ -1,5 +1,5 @@
 import React from 'react';
-import { IconBrandApple, IconBrandWindows } from '@tabler/icons-react';
+import { IconBrandApple } from '@tabler/icons-react';
 import { GoogleAuthButton } from './GoogleAuthButton';
 
 interface SocialAuthButtonsProps {

@@ -18,7 +18,7 @@ export default function AboutPage() {
           
           <h2 className="text-2xl font-bold text-gray-900 mt-10 mb-4">Our Vision</h2>
           <p className="text-gray-700 leading-relaxed mb-6">
-            We believe that artificial intelligence shouldn't be a privilege for the few. Whether you are a student preparing for competitive exams, a small business owner in a tier-2 city, or a homemaker looking to simplify daily tasks, AI can be a powerful ally.
+            We believe that artificial intelligence shouldn&apos;t be a privilege for the few. Whether you are a student preparing for competitive exams, a small business owner in a tier-2 city, or a homemaker looking to simplify daily tasks, AI can be a powerful ally.
           </p>
           
           <h2 className="text-2xl font-bold text-gray-900 mt-10 mb-4">Why We Built This</h2>

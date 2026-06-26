@@ -2,7 +2,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { IconMessageCircle, IconGridDots, IconLayoutDashboard, IconUser } from '@tabler/icons-react';
+import { IconMessageCircle, IconLayoutDashboard, IconUser } from '@tabler/icons-react';
 
 /**
  * Bottom navigation bar for mobile devices only.
